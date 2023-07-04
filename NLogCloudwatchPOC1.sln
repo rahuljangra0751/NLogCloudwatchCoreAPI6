@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogCloudwatchPOC1", "NLogCloudwatchPOC1.csproj", "{B973F7EA-FF81-4E42-A320-B4763A71A8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B973F7EA-FF81-4E42-A320-B4763A71A8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B973F7EA-FF81-4E42-A320-B4763A71A8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B973F7EA-FF81-4E42-A320-B4763A71A8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B973F7EA-FF81-4E42-A320-B4763A71A8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1003750F-5753-41B8-8E04-BCD228073B56}
+	EndGlobalSection
+EndGlobal
